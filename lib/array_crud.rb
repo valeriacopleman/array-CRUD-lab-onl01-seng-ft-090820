@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   school= ["wow", "arrays!"]
-  school_array[1]
+  school_array[0]
 end
 
 def retrieve_first_element_from_array(array)
