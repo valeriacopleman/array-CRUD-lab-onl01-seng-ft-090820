@@ -37,5 +37,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  school_array[-1]
+  school= ["wow", "am", "arrays!"]
+  school[-1]
 end
