@@ -3,15 +3,15 @@ def create_an_empty_array
 end
 
 def create_an_array
-  school  = ["clever" , "epic" , "seesaw" , "reading"]
+  school = ["clever" , "epic" , "seesaw" , "reading"]
 end
 
 def add_element_to_end_of_array(array, element)
-  school_array << 'math'
+  school << 'math'
 end
 
 def add_element_to_start_of_array(array, element)
-  school_array.unshift("wonders")
+  school.unshift("wonders")
 end
 
 def remove_element_from_end_of_array(array)
