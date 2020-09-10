@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+  school_array= []
 end
 
 def create_an_array
